@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Sergei.
+- 👀 I’m interested in coding recently, but have goal - Full-Stack Engineer
+- 🌱 I’m currently learning front-end engineering, now something in Java and open to cooperation
+- 🗣️ I'm speaking Ukrainian🇺🇦, Russian🇷🇺, Poland🇵🇱 and English🇺🇸 languages
+- 📫 You can find me in inst: serhii_holovenko
