@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Sergei.
 - 🏠 Live in Warsaw, borned in Ukraine 🇺🇦
-- 👀 I’m interested in coding recently, but have goal - Full-Stack Engineer
-- 🌱 I’m currently learning front-end engineering, understand something in Java and open to cooperation
+- 👀 I’m interested in coding recently, but have goal - Front-End Engineer
+- 🌱 I’m currently learning front-end engineering toogethe with CodeCademy
+- 🛠️ Аt the same time I work hard as a mechanic and I work on myself every day to change my life
 - 🗣️ I'm speaking Ukrainian🇺🇦, Russian🇷🇺, Poland🇵🇱 and English🇺🇸 languages
